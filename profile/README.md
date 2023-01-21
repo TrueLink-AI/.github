@@ -25,7 +25,7 @@ TrueLink is open-sourced under the MIT License
 For any queries or suggestions, please contact us at aitruelink01@gmail.com
 
 # Credits
-TrueLink was developed by Stefano Di Cecco and is supported by TrueLink - AI Organization
+TrueLink is supported by TrueLink - AI Organization
 
 # Disclaimer
 TrueLink is an open-source project and does not guarantee the authenticity of the sources of information. The use of the system is at the user's discretion and responsibility.
