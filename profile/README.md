@@ -19,7 +19,7 @@ Technology stack
 * Front-end: React, Angular, Vue
 
 # Contribution
-We welcome any contributions to the project. If you would like to contribute, please follow the guidelines in the CONTRIBUTING.md file.
+We welcome any contributions to the project. If you would like to contribute, please follow the guidelines in the https://github.com/TrueLink-AI/master-repo/blob/main/CONTRIBUTING.md file.
 
 # License
 TrueLink is open-sourced under the MIT License
