@@ -1,14 +1,17 @@
 # TrueLink - A Source Verification System using AI and Blockchain
 
 TrueLink is an open-source source verification system that uses Artificial Intelligence (AI) and Blockchain technology to authenticate and verify the sources of information. The system aims to tackle the problem of misinformation by providing users with reliable and verified sources of information.
-Features
+
+Features:
 
 * Utilizes AI algorithms to analyze and authenticate sources of information.
 * Utilizes Blockchain technology to ensure the immutability and security of the verified sources.
 * Provides a user-friendly interface for users to access and verify sources of information.
 * Allows users to flag and report any suspicious sources of information.
 * Continuously updates and improves its verification process with the help of the community.
+
 Technology stack
+
 * AI: Tensorflow, Pytorch
 * NLP: NLTK, spaCy
 * Blockchain: Ethereum, EOS
