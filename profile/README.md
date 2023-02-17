@@ -1,3 +1,12 @@
+<div class="w3-show-inline-block">
+    <div class="w3-bar">
+      <img alt="Discord" src="https://img.shields.io/discord/1076224231148363776">
+      <img alt="Star" src="https://img.shields.io/github/stars/TrueLink-AI/master-repo?style=social">
+      <img alt="License" src="https://img.shields.io/github/license/TrueLink-AI/master-repo">
+    </div>
+  </div>
+[![Discord](https://toppng.com/uploads/preview/flat-discord-material-like-icon-discord-ico-11562893460fc4gxlqxxy.png)](https://img.shields.io/discord/1076224231148363776)
+
 # TrueLink - A Source Verification System using AI and Blockchain
 
 <p align="center">
