@@ -26,17 +26,19 @@ Technology stack
 * Database: MongoDB, MySQL, Cassandra
 * Front-end: React, Angular, Vue
 
-# Contribution
-We welcome any contributions to the project. If you would like to contribute, please follow the guidelines in the https://github.com/TrueLink-AI/master-repo/blob/main/CONTRIBUTING.md file.
+### Contribution
+We welcome any contributions to the project. If you would like to contribute, please follow the [guidelines](https://github.com/TrueLink-AI/master-repo/blob/main/CONTRIBUTING.md) in the  file.
 
-# License
+
+
+### License
 TrueLink is open-sourced under the MIT License
 
-# Contact
+### Contact
 For any queries or suggestions, please contact us at aitruelink01@gmail.com
 
-# Credits
+### Credits
 TrueLink is supported by TrueLink - AI Organization
 
-# Disclaimer
+##### Disclaimer
 TrueLink is an open-source project and does not guarantee the authenticity of the sources of information. The use of the system is at the user's discretion and responsibility.
